@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\서영은\galaga\galaga\bin\Debug\galaga.exe.config
+C:\Users\admin\Documents\서영은\galaga\galaga\bin\Debug\galaga.exe
+C:\Users\admin\Documents\서영은\galaga\galaga\bin\Debug\galaga.pdb
+C:\Users\admin\Documents\서영은\galaga\galaga\obj\Debug\galaga.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\서영은\galaga\galaga\obj\Debug\galaga.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\서영은\galaga\galaga\obj\Debug\galaga.exe
+C:\Users\admin\Documents\서영은\galaga\galaga\obj\Debug\galaga.pdb
