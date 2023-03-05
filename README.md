@@ -7,6 +7,8 @@
 #### 게임 소개
 콘솔 슈팅 게임 \
 ![Gama_img](https://user-images.githubusercontent.com/123847823/222946273-4bb1943f-c4f6-4835-a694-7c8972b24371.png)
+![galaga](https://user-images.githubusercontent.com/123847823/222948482-1383e187-da59-4d5f-902b-c73e05324c4a.gif)
+
 
 #### 플레이 방법 
 - 자동실행
